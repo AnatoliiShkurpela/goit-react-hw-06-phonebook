@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//github.com/AnatoliiShkurpela/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css",
+    "main.css": "//github.com/AnatoliiShkurpela/goit-react-hw-06-phonebook/static/css/main.49ca82c2.css",
     "main.js": "//github.com/AnatoliiShkurpela/goit-react-hw-06-phonebook/static/js/main.07d3183d.js",
     "index.html": "//github.com/AnatoliiShkurpela/goit-react-hw-06-phonebook/index.html",
-    "main.7acaea2f.css.map": "//github.com/AnatoliiShkurpela/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css.map",
+    "main.49ca82c2.css.map": "//github.com/AnatoliiShkurpela/goit-react-hw-06-phonebook/static/css/main.49ca82c2.css.map",
     "main.07d3183d.js.map": "//github.com/AnatoliiShkurpela/goit-react-hw-06-phonebook/static/js/main.07d3183d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
+    "static/css/main.49ca82c2.css",
     "static/js/main.07d3183d.js"
   ]
 }
